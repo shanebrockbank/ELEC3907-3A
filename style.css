@@ -1,0 +1,35 @@
+body {
+    background: #4e5052;
+}
+
+.navbar {
+    margin-bottom: 0px;
+}
+
+.jumbotron {
+    background-image: url('http://www.enaelectronics.ca/blog/content/public/upload/reverseengineeredpcb_0_o.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    color: White;
+    font
+    filter: brightness(50%);
+}
+
+.jumbotron h1 {
+    font-weight: 400;
+    padding-left: 110px;
+}
+
+.jumbotron p {
+    padding-left: 90px;
+}
+
+#g1Title {
+    color: #FF4D3F;
+    width: 80%;
+    font-size: 80px;
+    font-weight: 700px;
+    text-align: center;
+}
