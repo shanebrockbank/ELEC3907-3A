@@ -1,0 +1,146 @@
+  body {
+    line-height: 1.8;
+  }
+  .jumbotron {
+    background-color: #0099ff; 
+    color: #fff;
+    padding: 200px 25px;
+  }
+
+  .container-fluid{
+    padding: 60px 50px;
+  }
+
+  .navbar {
+    margin-bottom: 0;
+    background-color: #0099ff;
+    z-index: 9999;
+    border: 0;
+    font-size: 12px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: 4px;
+    border-radius: 0;
+  } 
+
+  .navbar li a, .navbar .navbar-brand {
+    color: #fff !important;
+  }
+
+  .navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #0099ff !important;
+    background-color: #fff !important;
+  }
+
+  .navbar-default .navbar-toggle {
+    border-color: transparent;
+    color: #fff !important;
+  }
+
+  .logo {
+    color: #0099ff;
+    font-size: 200px;
+  }
+
+  .logo-sm {
+    color: #0099ff;
+    font-size: 50px
+  }
+
+  .bg-grey {
+    background-color: #f6f6f6
+  }
+
+  .game-station {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  .game-panels {
+    padding-top: 10px;
+    /*margin-top: -10px;*/
+    margin-bottom: 15px; 
+  }
+
+  .panel {
+    border: 1px solid #0099ff;
+    border-radius: 0;
+    transition: box-shadow 0.5s;
+  }
+
+  .panel:hover {
+    box-shadow : 5px 0px 40px rgba(0, 0, 0, 0.2);
+  }
+
+  .panel-footer .btn:hover {
+    border: 1px solid #0099ff;
+    background-color: #fff !important;
+    color: #0099ff
+  }
+
+  .panel-heading {
+    color: #fff !important;
+    background-color: #0099ff !important;
+    padding: 25px;
+    padding-bottom: 1px solid transparent;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+  }
+
+  .panel-footer {
+    background-color: #fff !important;
+  }
+
+  .panel-footer h3 {
+    font-size: 32px;
+  }
+
+  .panel-footer h4 {
+    color: #aaa;
+    font-size: 14px;
+  }  
+
+  .panel-footer .btn {
+    margin: 15px 0; 
+    background-color: #0099ff;
+    color: #fff;
+  }
+
+  .thumbnail {
+    padding: 0 0 15px 0;
+    border: none;
+    border-radius: 0;
+  }
+
+  .thumbnail img {
+    width: 316px;
+    height: 237px;
+    margin-bottom: 10px;
+  }
+
+  footer .glypicon {
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #0099ff;
+  }
+
+  footer span {
+    margin-bottom: 10px;
+  }
+
+  /*Games Page*/
+
+hr {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.game-tile {
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.well-white {
+    background-color: #fff;
+}
